@@ -19,7 +19,7 @@
     "lint-staged": "15.2.2",
     "merge": "2.1.1",
     "mongodb": "6.5.0",
-    "mongodb-memory-server": "9.1.8",
+    "mongodb-memory-server": "9.5.0",
     "release-it": "^17.0.3",
     "ts-jest": "29.1.2",
     "typedoc": "0.25.12",
