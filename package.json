@@ -23,7 +23,7 @@
     "release-it": "^17.0.3",
     "ts-jest": "29.1.2",
     "typedoc": "0.25.12",
-    "typedoc-plugin-markdown": "3.17.1",
+    "typedoc-plugin-markdown": "4.4.2",
     "typescript": "5.4.3"
   },
   "dependencies": {
